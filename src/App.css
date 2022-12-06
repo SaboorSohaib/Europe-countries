@@ -78,3 +78,36 @@ body {
   text-decoration: none;
   color: white;
 }
+
+/* Country Details */
+.county-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+  gap: 30px;
+}
+
+.flag-name {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  color: white;
+}
+
+.country-info-title {
+  font-size: 20px;
+  font-weight: 700;
+  color: white;
+}
+
+.info {
+  display: flex;
+  justify-content: space-between;
+  width: 300px;
+  color: white;
+  font-size: 18px;
+  font-weight: 400;
+}
