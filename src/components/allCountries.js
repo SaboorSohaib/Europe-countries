@@ -3,7 +3,7 @@ import React from 'react';
 import SingelCountry from './singleCountry';
 
 const AllCountry = ({ data }) => (
-  <div>
+  <div className="country">
     {data.map((countryData, idx) => (
       <SingelCountry
         key={countryData.id}
