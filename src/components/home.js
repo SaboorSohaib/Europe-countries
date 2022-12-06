@@ -20,7 +20,7 @@ const HomePage = () => {
   return (
     <div className="home">
       <div className="map">
-        <img src={europe} alt="eurpe map" />
+        <img src={europe} alt="eurpe map" className="map-photo" />
         <div>
           <h3 className="europe-title">Europe</h3>
           <p className="europe-title">746.4 Million</p>

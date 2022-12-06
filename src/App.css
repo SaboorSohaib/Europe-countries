@@ -111,3 +111,21 @@ body {
   font-size: 18px;
   font-weight: 400;
 }
+
+/* Mobile Version */
+@media only screen and (max-width: 375px) {
+  .map {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .map-photo {
+    width: 300px;
+  }
+
+  .country {
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+  }
+}
