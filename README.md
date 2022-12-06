@@ -35,7 +35,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📗 Table of Contents
 
-- [� Table of Contents](#-table-of-contents)
+- [📗 Table of Contents](#-table-of-contents)
 - [📖 \[Europe Countries Map \] ](#-europe-countries-map--)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
@@ -80,14 +80,14 @@ After you're finished please remove all the comments and instructions!
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li>N/A</li>
   </ul>
 </details>
 
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li>N/A</li>
   </ul>
 </details>
 
