@@ -4,10 +4,10 @@ import { MemoryRouter as Router } from 'react-router-dom';
 import Navbar from '../components/header';
 
 it('It should render the component Correctly', () => {
-    const header = render(
-        <Router>
-            <Navbar />
-        </Router>,
-    );
-    expect(header).toMatchSnapshot();
+  const header = render(
+    <Router>
+      <Navbar />
+    </Router>,
+  );
+  expect(header).toMatchSnapshot();
 });

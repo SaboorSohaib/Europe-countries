@@ -1,7 +1,6 @@
 import axios from 'axios';
 import { createAsyncThunk } from '@reduxjs/toolkit';
 
-
 const SHOWCOUNTRY = 'react-capstone-project/redux/countries/SHOWCOUNTRY';
 const GETCOUNTRY = 'react-capstone-project/redux/countries/SHOWCOUNTRY';
 const URL = 'https://restcountries.com/v3.1/region/europe';
