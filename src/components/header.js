@@ -11,17 +11,17 @@ const Navbar = (props) => {
       <Link to="/">
         <div>
           <svg className="back-arrow">
-            <use xlinkHref={`${icons}#icon-chevron-left1`} />
+            <use className="white-color" xlinkHref={`${icons}#icon-chevron-left1`} />
           </svg>
         </div>
       </Link>
       <div>{children}</div>
       <div className="right-container">
         <svg className="mic-setting">
-          <use xlinkHref={`${icons}#icon-microphone`} />
+          <use className="white" xlinkHref={`${icons}#icon-microphone`} />
         </svg>
         <svg className="mic-setting">
-          <use xlinkHref={`${icons}#icon-settings`} />
+          <use className="white" xlinkHref={`${icons}#icon-settings`} />
         </svg>
       </div>
     </div>

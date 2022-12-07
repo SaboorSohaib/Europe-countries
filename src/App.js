@@ -8,7 +8,7 @@ function App() {
   return (
     <BrowserRouter>
       <div>
-        <Navbar />
+        <Navbar>Most Views</Navbar>
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/country/:id" element={<CountriesDetalis />} />
