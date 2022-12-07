@@ -1,5 +1,6 @@
+import { axios } from 'axios';
 import { createAsyncThunk } from '@reduxjs/toolkit';
-import axios from 'axios';
+
 
 const SHOWCOUNTRY = 'react-capstone-project/redux/countries/SHOWCOUNTRY';
 const GETCOUNTRY = 'react-capstone-project/redux/countries/SHOWCOUNTRY';
