@@ -215,7 +215,7 @@ If you like this project you can give star and fork it.
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank Nelson Sakwa on Behance for providing us this template.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
