@@ -26,7 +26,7 @@ const HomePage = () => {
     } else {
       dispatch(fetchCountry());
     }
-     // eslint-disable-next-line react-hooks/exhaustive-deps
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [searchTerm]);
 
   return (
