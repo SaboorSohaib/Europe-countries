@@ -36,7 +36,7 @@ After you're finished please remove all the comments and instructions!
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Europe Countries Map \] ](#-europe-countries-map--)
+- [📖 Europe Countries Map ](#-europe-countries-map-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -58,7 +58,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Europe Countries Map ] <a name="about-project"></a>
+# 📖 Europe Countries Map <a name="about-project"></a>
 
 > React and Redux single page application that contain eurpean countries infromation.
 
@@ -133,7 +133,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
  - mkdir my-folder
  - cd my-folder
- - git clone [(https://github.com/SaboorSohaib/React-Group-Project.git)]
+ - git clone [(https://github.com/SaboorSohaib/React-Capstone-Project.git)]
 
 
 ### Install
