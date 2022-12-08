@@ -33,11 +33,6 @@ body {
   cursor: pointer;
 }
 
-.white-color {
-  color: white;
-  background-color: white;
-}
-
 .home {
   display: flex;
   flex-direction: column;
