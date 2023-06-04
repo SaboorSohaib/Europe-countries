@@ -1,31 +1,8 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
+  <h3><b>Europe Countries</b></h3>
 
 </div>
 
@@ -34,7 +11,7 @@ After you're finished please remove all the comments and instructions!
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Europe Countries Map ](#-europe-countries-map-)
+- [📖 Europe Countries ](#-europe-countries-map-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -56,11 +33,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Europe Countries Map <a name="about-project"></a>
+# 📖 Europe Countries <a name="about-project"></a>
 
-> React and Redux single page application that contain eurpean countries infromation.
-
-**[Europe Countries Map]** is a react and redux single page application.
+> Europe Countries is a React application that allows users to see the list of all the countries in Europe and also see the details of each country. I fetched the countries from API.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -71,7 +46,7 @@ After you're finished please remove all the comments and instructions!
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li>React</li>
   </ul>
 </details>
 
@@ -122,41 +97,52 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
+```
+
  - Laptop/Desktop.
  - Internet.
  - Node.
  - Vs Code.
+
+```
 ### Setup
 
 Clone this repository to your desired folder:
+```
+
  - mkdir my-folder
  - cd my-folder
- - git clone [(https://github.com/SaboorSohaib/React-Capstone-Project.git)]
+ - git clone git@github.com:SaboorSohaib/Europe-countries.git
+ - cd Europe-countries
+
+```
 
 
 ### Install
 
 Install this project with:
 
-**you can run any one of these commands to install npm on your machine:**
-
+**You can run any one of these commands to install npm on your machine:**
+```
 - npm i
 - npm install
 - sudo apt install npm
+
+```
 
 ### Usage
 
 To run the project, execute the following command:
 
-- npm start.
+- npm start
 
 ### Run tests
 
-- npm test.
+- npm test
 
 ### Deployment
 
-You can deploy this project using:
+- Netlify
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -169,9 +155,10 @@ You can deploy this project using:
 
 👤 **Abdul Saboor Sohaib**
 
-- GitHub: [@githubhandle](https://github.com/SaboorSohaib)
-- Twitter: [@twitterhandle](https://twitter.com/absaboorsohaib)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdul-saboor-sohaib/)
+- GitHub: [![SaboorSohaib](https://img.shields.io/badge/-SaboorSohaib-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/SaboorSohaib)
+- Twitter: [![absaboorsohaib](https://img.shields.io/badge/-absaboorsohaib-blue?logo=Twitter&logoColor=skyBlue&style=plastic)](https://twitter.com/absaboorsohaib)
+- LinkedIn: [![abdul-saboor-sohaib](https://img.shields.io/badge/-AbdulSaboorSohaib-white?logo=LinkedIn&logoColor=181717&style=plastic)](https://www.linkedin.com/in/abdul-saboor-sohaib/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -181,9 +168,9 @@ You can deploy this project using:
 
 > Features I will add to the project.
 
-- [ ] **Add all worlds countries**
-- [ ] **Add more information about the countries**
-- [ ] **Add map of every country with its borders**
+- **Add all worlds countries**
+- **Add more information about the countries**
+- **Add map of every country with its borders**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
