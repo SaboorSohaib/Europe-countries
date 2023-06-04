@@ -41,7 +41,6 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -68,7 +67,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Features of the application.
 
 - **See all european country**
 - **See all countries information**
@@ -80,7 +78,6 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
 
 - [Live Demo Link](https://enchanting-pavlova-7392f8.netlify.app/)
 
@@ -90,7 +87,6 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -151,7 +147,6 @@ To run the project, execute the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Abdul Saboor Sohaib**
 
@@ -166,7 +161,6 @@ To run the project, execute the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Features I will add to the project.
 
 - **Add all worlds countries**
 - **Add more information about the countries**
@@ -188,7 +182,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
 If you like this project you can give star and fork it.
 
@@ -198,7 +191,6 @@ If you like this project you can give star and fork it.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank Nelson Sakwa on Behance for providing us this template.
 
@@ -208,7 +200,6 @@ I would like to thank Nelson Sakwa on Behance for providing us this template.
 
 ## ❓ FAQ <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **How to go back to the homepage?**
 
