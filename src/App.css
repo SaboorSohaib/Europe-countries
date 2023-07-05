@@ -120,7 +120,7 @@ body {
 }
 
 /* Mobile Version */
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 500px) {
   .map {
     display: flex;
     flex-direction: column;
